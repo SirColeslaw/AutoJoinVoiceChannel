@@ -13,7 +13,7 @@ module.exports = class AutoJoinVoiceChannel {
 
         // Add a delay to ensure Discord is fully loaded
         setTimeout(() => {
-            this.joinVoiceChannel('YOUR_GUILD_ID', 'YOUR_CHANNEL_ID');
+            this.joinVoiceChannel('YOUR_SERVER_ID', 'YOUR_CHANNEL_ID');
         }, 5000);  // 5 seconds delay
     }
 
