@@ -8,7 +8,7 @@ AutoJoinVoiceChannel is a BetterDiscord plugin that automatically joins a specif
 
 ## Installation
 
-1. Download the plugin from the [releases page](https://github.com/YourGitHub/AutoJoinVoiceChannel/releases).
+1. Download the plugin from the [releases page](https://github.com/SirColeslaw/AutoJoinVoiceChannel/releases).
 2. Move the downloaded file to your BetterDiscord plugins folder. You can find this folder by going to User Settings > Plugins > Open Plugins Folder in Discord.
 3. Enable the plugin in the Plugins section of BetterDiscord.
 
