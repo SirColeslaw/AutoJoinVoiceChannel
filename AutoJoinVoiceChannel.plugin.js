@@ -3,8 +3,8 @@
  * @description Automatically joins a specific voice channel on a specific server when Discord starts.
  * @version 1.0.2
  * @author Sir_Coleslaw
- * @source https://github.com/YourGitHub/AutoJoinVoiceChannel
- * @updateUrl https://github.com/YourGitHub/AutoJoinVoiceChannel/update
+ * @source https://github.com/SirColeslaw/AutoJoinVoiceChannel
+ * @updateUrl https://github.com/SirColeslaw/AutoJoinVoiceChannel/raw/main/AutoJoinVoiceChannel.plugin.js
  */
 
 module.exports = class AutoJoinVoiceChannel {
