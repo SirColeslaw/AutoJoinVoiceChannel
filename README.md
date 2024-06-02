@@ -39,3 +39,6 @@ To configure the plugin, you need to provide the IDs of the server and the voice
 
    ```javascript
    this.joinVoiceChannel('YOUR_SERVER_ID', 'YOUR_CHANNEL_ID');
+
+3. Replace 'YOUR_SERVER_ID' and 'YOUR_CHANNEL_ID' with the IDs you copied earlier.
+4. Save the file.
